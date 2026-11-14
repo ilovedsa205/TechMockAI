@@ -1,0 +1,11 @@
+{
+  "name": "techmock-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered Technical Interview Simulation and Evaluation Platform",
+  "packageManager": "pnpm@12.18.0",
+  "engines": {
+    "node": ">=26.0.0",
+    "pnpm": ">=12.0.0"
+  }
+}
