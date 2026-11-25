@@ -8,5 +8,7 @@ saveExact: true
 
 # Dependency build script security
 allowBuilds:
+  '@prisma/engines': true
+  prisma: true
   sharp: false
   unrs-resolver: false
